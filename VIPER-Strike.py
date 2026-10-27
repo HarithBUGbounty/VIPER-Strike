@@ -45,16 +45,16 @@ REPORT_SAVED = False
 def banner():
     print(f"""
 {R}                                                                            
-{R}          ▄▄▄▄  ▄▄▄▄  ▄▄▄▄▄▄▄                                      ▄▄▄▄     ▄▄▄▄   
-{R}          ▀███  ███▀ █████▀▀▀                                    ▄█████   ▄██████▄ 
-{R}           ███  ███   ▀████▄  ██ ██ ▄█▀█▄ ████▄ ▄███▄ ███▄███▄      ███   ███  ███ 
-{R}           ███▄▄███     ▀████ ██▄██ ██▄█▀ ██ ██ ██ ██ ██ ██ ██      ███   ███▄▄███ 
-{R}            ▀████▀   ███████▀  ▀█▀  ▀█▄▄▄ ██ ██ ▀███▀ ██ ██ ██      ███ ██ ▀████▀  
+{R}             ▄▄▄▄  ▄▄▄▄  ▄▄▄▄▄▄▄                                      ▄▄▄▄     ▄▄▄▄   
+{R}             ▀███  ███▀ █████▀▀▀                                    ▄█████   ▄██████▄ 
+{R}              ███  ███   ▀████▄  ██ ██ ▄█▀█▄ ████▄ ▄███▄ ███▄███▄      ███   ███  ███ 
+{R}              ███▄▄███     ▀████ ██▄██ ██▄█▀ ██ ██ ██ ██ ██ ██ ██      ███   ███▄▄███ 
+{R}               ▀████▀   ███████▀  ▀█▀  ▀█▄▄▄ ██ ██ ▀███▀ ██ ██ ██      ███ ██ ▀████▀  
 {R}
 
 {Y}                               VIPER-Strike — Auto-Exploit Engine
 {C}                         </> Author: HarithBUGbounty — Dragon Force </>
-{W}   WARNING: Using this tool for attacking unauthorized website is illegal, Author will not take responsible.
+{W}             Subscribe My YT channel: https://youtube.com?@Harithctf?si=sN0d4rSaA1vCSIR3
     """)
 
 def init_report():
